@@ -216,7 +216,7 @@ Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) un
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/adrptrp)
+- GitHub: [@adrptrp](https://github.com/adrptrp)
 - Email: adrian.pp13124@gmail.com
 
 ## 🙏 Acknowledgments
