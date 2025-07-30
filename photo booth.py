@@ -1,9 +1,23 @@
-import cv2
+try:
+    import cv2
+except ImportError:
+    print("Error: Modul 'cv2' (OpenCV) belum terinstal.")
+    print("Jalankan perintah berikut di terminal untuk menginstal:")
+    print("pip install opencv-python")
+    exit(1)
+
+try:
+    from PIL import Image, ImageTk
+except ImportError:
+    print("Error: Modul 'PIL' (Pillow) belum terinstal.")
+    print("Jalankan perintah berikut di terminal untuk menginstal:")
+    print("pip install pillow")
+    exit(1)
+
 import numpy as np
 import os
 import tkinter as tk
 from tkinter import ttk
-from PIL import Image, ImageTk
 import datetime
 import time
 
