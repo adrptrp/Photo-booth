@@ -216,8 +216,8 @@ Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) un
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/adrptrp)
+- Email: adrian.pp13124@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -232,7 +232,7 @@ Jika Anda mengalami masalah atau memiliki pertanyaan:
 
 1. Cek bagian [Troubleshooting](#-troubleshooting)
 2. Buka [Issues](https://github.com/username/python-photo-booth/issues) di GitHub
-3. Kirim email ke: support@example.com
+3. Kirim email ke: adrian.pp13124@gmail.com
 
 ---
 
